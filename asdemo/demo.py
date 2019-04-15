@@ -1,4 +1,4 @@
-PACKAGE_URL = 'PACKAGE_URL = 'git+https://41257bbce455a31902ccf02e455ccc7c3970b385@github.com/Luaithrenn/asdemo.git@''
+PACKAGE_URL = 'PACKAGE_URL = 'git+https://@github.com/Luaithrenn/asdemo.git@''
 
 import numpy as np
 import pandas as pd
