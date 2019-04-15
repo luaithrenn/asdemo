@@ -12,7 +12,7 @@ class MyCustomFunction(BaseTransformer):
 
   def _init(self,
     input_item,
-    output_item - 'output_item'
+    output_item = 'output_item'
     ):
     self.input_item = input_item
     self.output_item = output_item
